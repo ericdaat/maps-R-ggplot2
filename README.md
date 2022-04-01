@@ -1,5 +1,7 @@
 # Draw beautiful maps with R and ggplot2 library
 
+Feel free to check out my [blog post](https://edaoud.com/blog/2022/03/18/draw-maps-with-R-and-ggplot/) for more details on how to make maps with ggplot2.
+
 In this repository we are going to learn how to draw maps using the R
 programming language and ggplot2 library. While I am mostly using
 Python for everything else, I must admit R produces beautiful figures and I have been using it extensively for data visualization, especially for drawing maps.
